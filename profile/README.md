@@ -1,6 +1,3 @@
-# Welcome to LetheanVPN 
-
-
 ## Project Links
 - [Lethean VPN Website](https://www.lt.hn)
 - [Twitter: @letheanVPN](https://twitter.com/letheanVPN)
